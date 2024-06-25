@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 import 'package:flutter_wisata_renald/data/models/response/qris_response_model.dart';
 
-String serverKey = 'SB-Mid-server-GUJOPIhHF9b1D1ffzjmtPHnf';
+String serverKey = 'isi kan server keymu';
 
 class MidtransRemoteDatasource {
   String generateBasicAuthHeader(String serverKey) {
