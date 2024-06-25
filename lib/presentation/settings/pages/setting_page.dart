@@ -220,7 +220,7 @@ class _SettingPageState extends State<SettingPage> {
           SettingButton(
             iconPath: Assets.icons.settings.syncData.path,
             title: 'Server Key',
-            subtitle: 'inout server key',
+            subtitle: 'input server key',
             onPressed: () {
               // context.push(const SaveServerKeyPage());
             },

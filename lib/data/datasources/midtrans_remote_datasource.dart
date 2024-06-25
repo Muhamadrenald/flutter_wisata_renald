@@ -5,7 +5,6 @@ import 'package:http/http.dart' as http;
 
 import 'package:flutter_wisata_renald/data/models/response/qris_response_model.dart';
 
-// String serverKey = 'Mid-server-CvNx9YqsIJiuIOZeC383IPnA';
 String serverKey = 'SB-Mid-server-GUJOPIhHF9b1D1ffzjmtPHnf';
 
 class MidtransRemoteDatasource {
